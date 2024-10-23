@@ -1,0 +1,46 @@
+{
+    "category": "BRUNCH COCKTAILS",
+    "specialDrinks": [
+      {
+        "name": "Mimosa",
+        "price": "$6",
+        "ingredients": [
+          { "name": "Champagne" },
+          { "name": "OrangeJuice" },
+          { "name": "TripleSec" },
+          { "name": "OrangeSlice" }
+        ]
+      },
+      {
+        "name": "Bloody Mary",
+        "price": "$8",
+        "ingredients": [
+          { "name": "Vodka" },
+          { "name": "TomatoJuice" },
+          { "name": "WorcestershireSauce" },
+          { "name": "CeleryStick" }
+        ]
+      },
+      {
+        "name": "Bellini",
+        "price": "$7",
+        "ingredients": [
+          { "name": "Prosecco" },
+          { "name": "PeachPuree" },
+          { "name": "LemonTwist" },
+          { "name": "Mint" }
+        ]
+      },
+      {
+        "name": "Irish Coffee",
+        "price": "$9",
+        "ingredients": [
+          { "name": "HotCoffee" },
+          { "name": "IrishWhiskey" },
+          { "name": "Sugar" },
+          { "name": "WhippedCream" }
+        ]
+      }
+    ]
+  }
+  

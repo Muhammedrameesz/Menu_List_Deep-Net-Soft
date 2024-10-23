@@ -1,0 +1,126 @@
+{
+    "menuData": [
+      {
+        "category": "FOOD",
+        "items": [
+          { "name": "Grilled Chicken Sandwich", "price": "$12" },
+          { "name": "Caesar Salad", "price": "$9" },
+          { "name": "Margherita Pizza", "price": "$14" }
+        ]
+      },
+      {
+        "category": "DRINKS",
+        "specialDrinks": [
+          {
+            "name": "Dragonfruit Tini",
+            "price": "$7",
+            "ingredients": [
+              { "name": "fruitLiqueur" },
+              { "name": "Tito’sVodka" },
+              { "name": "LimeJuice" },
+              { "name": "AgaveSyrup" }
+            ]
+          },
+          {
+            "name": "Mango Mojito",
+            "price": "$8",
+            "ingredients": [
+              { "name": "MangoPuree" },
+              { "name": "WhiteRum" },
+              { "name": "MintLeaves" },
+              { "name": "SodaWater" }
+            ]
+          },
+          {
+            "name": "Blueberry Fizz",
+            "price": "$9",
+            "ingredients": [
+              { "name": "BlueberryVodka" },
+              { "name": "ClubSoda" },
+              { "name": "LemonJuice" },
+              { "name": "SimpleSyrup" }
+            ]
+          },
+          {
+            "name": "Pineapple Smash",
+            "price": "$10",
+            "ingredients": [
+              { "name": "PineappleJuice" },
+              { "name": "Bourbon" },
+              { "name": "Honey" },
+              { "name": "MintLeaves" }
+            ]
+          },
+          {
+            "name": "Cucumber Cooler",
+            "price": "$7",
+            "ingredients": [
+              { "name": "CucumberInfusedGin" },
+              { "name": "ElderflowerLiqueur" },
+              { "name": "Lime" },
+              { "name": "SodaWater" }
+            ]
+          },
+          {
+            "name": "Raspberry Daiquiri",
+            "price": "$9",
+            "ingredients": [
+              { "name": "WhiteRum" },
+              { "name": "RaspberryPuree" },
+              { "name": "LimeJuice" },
+              { "name": "SimpleSyrup" }
+            ]
+          },
+          {
+            "name": "CoconutMargarita",
+            "price": "$11",
+            "ingredients": [
+              { "name": "Tequila" },
+              { "name": "Coconut Cream" },
+              { "name": "Lime Juice" },
+              { "name": "Cointreau" }
+            ]
+          },
+          {
+            "name": "Strawberry Basil Smash",
+            "price": "$8",
+            "ingredients": [
+              { "name": "StrawberryPuree" },
+              { "name": "BasilLeaves" },
+              { "name": "Gin" },
+              { "name": "LemonJuice" }
+            ]
+          },
+          {
+            "name": "Peach Bellini",
+            "price": "$10",
+            "ingredients": [
+              { "name": "PeachPuree" },
+              { "name": "Prosecco" },
+              { "name": "LemonTwist" },
+              { "name": "Mint" }
+            ]
+          },
+          {
+            "name": "Ginger Mule",
+            "price": "$9",
+            "ingredients": [
+              { "name": "Vodka" },
+              { "name": "GingerBeer" },
+              { "name": "LimeJuice" },
+              { "name": "Mint" }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "BRUNCH",
+        "items": [
+          { "name": "Avocado Toast", "price": "$8" },
+          { "name": "Egg Benedict", "price": "$10" },
+          { "name": "French Toast", "price": "$9" }
+        ]
+      }
+    ]
+  }
+  
