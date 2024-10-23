@@ -8,7 +8,7 @@ const roter = require("./router/routes");
 
 
 
-app.use(cors({ origin: "*" }));
+app.use(cors({ origin: "menu-list-deep-net-soft-frontend.vercel.app" }));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use("/api/v1", roter);
