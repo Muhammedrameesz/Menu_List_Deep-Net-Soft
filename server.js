@@ -11,7 +11,8 @@ app.use(
     origin: [
       "https://menu-list-deep-net-soft-frontend.vercel.app",
       "https://menu-list-deep-net-soft-fr-git-528c75-muhammedrameeszs-projects.vercel.app",
-      "https://menu-list-deep-net-soft-frontend-j90xb9ui5.vercel.app"
+      "https://menu-list-deep-net-soft-frontend-j90xb9ui5.vercel.app",
+      "https://menulist-deep-net-soft.netlify.app"
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE", 
     
